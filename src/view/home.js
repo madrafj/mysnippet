@@ -9,7 +9,7 @@ const $Home = styled.div`
   max-width: 800px;
   min-width: 480px;
   width: calc(100% - 2rem);
-  padding: 2rem 0 5rem;
+  padding: 2rem 1rem 5rem;
 
   .addnew-button {
     position: fixed;
